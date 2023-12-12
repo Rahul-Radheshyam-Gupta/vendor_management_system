@@ -1,0 +1,21 @@
+# Vendor Management System
+Simple rest apis to provide functionalities to vendors to place order and manage audits.
+
+### Prerequisites
+
+- Python 3.8+
+- Django 4.2
+
+### Installing
+
+A step-by-step series of examples that tell you how to get a development environment running.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-project.git
+
+# Change into the project directory
+cd your-project
+
+# Install dependencies
+pip install -r requirements.txt

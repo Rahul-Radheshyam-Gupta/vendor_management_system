@@ -1,0 +1,20 @@
+# Dbs
+*.sqlite3
+db.sqlite3
+
+# Django migrations
+*/migrations/
+__pycache__/__init__.pyc
+__pycache__/*.pyc
+__pycache__/*/__init__.pyc
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.env/
